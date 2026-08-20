@@ -74,7 +74,7 @@ A backend module for uploading case sheets (Excel/CSV), validating them, storing
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nemuriswetha09&show_icons=true&theme=default)
 
 ---
 
